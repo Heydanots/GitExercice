@@ -1,6 +1,10 @@
 h1,p{
 	text-align: center;
+	color: white;
 }
 figure{
 	margin-left: 590px;
+}
+body{
+	background-color: #23F0C7;
 }
